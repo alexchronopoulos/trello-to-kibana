@@ -17,7 +17,7 @@ This is a free and open source alternative to the Trello Premium Dashboard View.
 2. Create `config.ini` file using `config.ini_template` as a base
 3. Activate Python venv `source bin/activate`
 4. Install requirements `pip3 install -r requirements.txt`
-5. Run `python3 trello_to_elastic.py`
+5. Run `python3 trello_to_kibana.py`
 
 Assuming all goes well this will perform the following:
 - Pull data for all Cards on Trello Board
